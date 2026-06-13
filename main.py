@@ -36,7 +36,7 @@ title_html = f"""
 st.markdown(title_html, unsafe_allow_html=True)
 st.markdown("Explore GitHub repositories with natural language using the Model Context Protocol")
 
-# Setup sidebar for API key
+# Setup sidebar for API keys
 with st.sidebar:
     st.image("./assets/Nebius.png", width=150)
         
